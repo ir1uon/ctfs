@@ -17,6 +17,6 @@ and it was like this
 ![alt text](printFlag.png)
 
 so i decided to made an implementation of the function to get the Flag
-so i write the script **fun2.py** and the flag was :
+so i write the script [fun2.py](fun2.py) and the flag was :
 
 **Flag : TUCTF{l0c4l_<_r3m073_3x3cu710n}**
